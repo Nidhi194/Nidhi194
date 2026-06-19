@@ -94,10 +94,10 @@ Currently, I'm building a strong portfolio with hands-on projects in **Power BI,
 
 ## ⚡ A Bit About Me
 
-- 📌 I got into data analytics because I love finding the *story* hiding inside a spreadsheet
-- 🎨 I care as much about how a dashboard *looks* as what it *shows*
-- 🧩 I enjoy breaking down complex problems into simple, visual answers
-- ☕ Best ideas come after chai, not coffee
+- ☕ Runs on coffee, not chai (controversial opinion)
+- 📺 K-drama enthusiast — yes, I track episode progress in a spreadsheet
+- 🗂️ Obsessively organised — my folders have folders
+- 📊 Chose DA because data actually makes sense to me (unlike people)
 
 ---
 
