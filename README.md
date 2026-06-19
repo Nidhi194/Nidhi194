@@ -74,23 +74,20 @@ Currently, I'm building a strong portfolio with hands-on projects in **Power BI,
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-[![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nidhi194&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Nidhi194)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi194&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Nidhi194)
-
-</div>
-
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nidhi194&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Nidhi194)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nidhi194&theme=tokyonight&hide_border=true)](https://github.com/Nidhi194)
-
+	<table>
+		<tr>
+			<td>
+				<a href="https://github.com/Nidhi194">
+					<img src="https://github-readme-stats.vercel.app/api?username=Nidhi194&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nidhi's GitHub Stats" />
+				</a>
+			</td>
+			<td>
+				<a href="https://github.com/Nidhi194">
+					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi194&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+				</a>
+			</td>
+		</tr>
+	</table>
 </div>
 
 ---
