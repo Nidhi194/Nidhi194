@@ -2,13 +2,13 @@
 
 # Nidhi Nikam
 
-### Aspiring Data Analyst | Frontend Developer | Power BI · SQL · Python
+### Aspiring Data Analyst | Frontend Developer | Power BI · Web-Frontend
 
 *Turning raw data into decisions — and ideas into interfaces.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-nikam-a57565308)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nidhi194)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhinikam1904@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-nikam-a57565308)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nidhi194)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nidhinikam1904@gmail.com)
 
 ---
 
@@ -22,11 +22,7 @@
 
 I'm a **Computer Engineering student** at Smt. Indira Gandhi College of Engineering, Navi Mumbai, with a strong interest in both **Data Analytics** and **Web Development**. I enjoy transforming raw data into meaningful insights through dashboards and analysis, as well as building clean, functional interfaces.
 
-Currently, I'm building a strong portfolio with hands-on projects in **Power BI, SQL, Python**, and **frontend development** — focused on solving real-world problems.
-
-- 🎯 **Goal:** Secure an internship (Data Analytics / BI / Frontend / Web Development) to apply my technical skills in a professional environment
-- 💡 **Philosophy:** Whether it's data or design, the goal is always clarity
-- 🔍 **Interests:** Data visualization, exploratory data analysis, and UI development
+Currently, I'm building a strong portfolio with hands-on projects in **Power BI, Python**, and **frontend development** — focused on solving real-world problems.
 
 ---
 
@@ -66,8 +62,6 @@ Currently, I'm building a strong portfolio with hands-on projects in **Power BI,
 		</td>
 	</tr>
 </table>
-
-> ✏️ Trim any badge above you don't actually use (e.g. drop React/Bootstrap if you haven't done frontend projects yet), or add ones I missed.
 
 ---
 
